@@ -120,11 +120,3 @@ The two stages are then compared: if the experimental winner matches the analyti
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to fork the repository and submit a pull request.
-
-## 📄 License
-
-No license has been specified for this repository. If you intend to use or distribute this project, please contact the repository owner or add a license file.
-
-## 👤 Author
-
-**Sreoshi170** — [GitHub Profile](https://github.com/Sreoshi170)
